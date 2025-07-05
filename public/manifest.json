@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "short_name": "BertFlix",
   "name": "BertFlix",
   "icons": [
@@ -9,11 +10,28 @@
     },
     {
       "src": "logo192.png",
+=======
+  "short_name": "Movie-flex",
+  "name": "Movie-flex",
+  "icons": [
+    {
+      "src": "R.jpg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    
+    {
+      "src": "R.jpg",
+>>>>>>> 76bc82b (changeDs)
       "type": "image/png",
       "sizes": "192x192"
     },
     {
+<<<<<<< HEAD
       "src": "logo512.png",
+=======
+      "src": "R.jpg",
+>>>>>>> 76bc82b (changeDs)
       "type": "image/png",
       "sizes": "512x512"
     }

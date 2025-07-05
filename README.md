@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # s54_capston_movie
 ## Configuration and Setup
 
@@ -96,3 +97,8 @@ This project was created using the following technologies.
  # Frontend (React-app) Deployed link : [Front-end_Link](https://magnificent-cupcake-f81696.netlify.app/)
 
  
+=======
+Movie-flex
+
+Fronted (Client)
+>>>>>>> 76bc82b (changeDs)
